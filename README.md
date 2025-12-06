@@ -1,4 +1,5 @@
 # PDF to Markdown Converter
+<img width="820" height="431" alt="image" src="https://github.com/user-attachments/assets/ea0458db-3da1-445f-82fe-934f540770ed" />
 
 A robust Python utility for converting PDF documents into clean, well-formatted Markdown files. This tool intelligently preserves document structure, including headings, tables, and text formatting, making it ideal for documentation workflows, content migration, and archival purposes.
 
